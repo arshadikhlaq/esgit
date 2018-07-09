@@ -1,5 +1,8 @@
 <?php
-//Arshad
+/*
+This is my first larvel
+By Arshad
+*/
 namespace App;
 
 use Illuminate\Notifications\Notifiable;
